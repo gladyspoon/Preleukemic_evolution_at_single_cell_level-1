@@ -6,7 +6,7 @@ Codes used for training the ML classifier and evaluating model performance:
   Github - Training classifier model (k=4, n=300).ipynb
   Github - Model performance after training.ipynb
 Codes used for inferring evolutionary parameters from real data:
-  Github - Clone size vector from real patients.ipynb
+  Github - Applying neural networks on subsampled observed clone size vectors.ipynb
 Codes used for risk prediction (Figure 5):
   Github - Relative risk for acquiring mutations before different ages.ipynb
   Github - plotting Figure 5.ipynb
